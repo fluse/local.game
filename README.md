@@ -1,1 +1,1 @@
-# local.game
+# locale.game
